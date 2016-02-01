@@ -3,13 +3,10 @@
 return [
 
 	//
-	'namespace' => 'BW\Com\Produtos',
-
-	//
 	'title' => 'Produtos',
 
 	//
-	'menu' => [
+	'menus' => [
 
 		[
 			'title' => 'Produtos',
@@ -26,8 +23,6 @@ return [
 			'url' => '/tags'
 		],
 
-	],
-
-	'assets' => []
+	] 
 
 ];
